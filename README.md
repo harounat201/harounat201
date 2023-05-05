@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2>Welcome to my Github profile!!<h2>
+<h2>Welcome to my Github profile!! 👋<h2>
 
 <!--
 **harounathiam2005/harounathiam2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
