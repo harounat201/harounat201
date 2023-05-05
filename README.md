@@ -1,5 +1,12 @@
-<h2>Welcome to my Github profile!! 👋<h2>
+Welcome!! 👋
 
+ About me:
+  - Junior in high school @ Manatee School for the Arts
+  - **Onboarding Summer Software Engineering Intern @ ZSuite Technologies inc**.
+  - Lead programmer for **FIRST Tech Challenge Team Ironic 14226**
+  - Profound interest in **Computer Science**, **Software**, and **Artificial Intelligence**
+  - **Always** looking for new opportunities—especially **academic research** in the field of computer scinece
+  
 <!--
 **harounathiam2005/harounathiam2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
