@@ -3,7 +3,7 @@
 <center><img width="452" alt="Funny comic" src="https://raw.githubusercontent.com/harounathiam2005/harounathiam2005/main/Screen%20Shot%202023-05-05%20at%202.45.24%20PM.png"></center>
 
   - Junior in high school @ Manatee School for the Arts
-  - **Onboarding Summer Software Engineering Intern @ ZSuite Technologies inc**.
+  - **Onboarding Summer Software/AI Engineering Intern @ ZSuite Technologies inc**.
   - Lead programmer for **FIRST Tech Challenge Team Ironic 14226**
   - Profound interest in **Computer Science**, **Software**, and **Artificial Intelligence**
   - **Always** looking for new opportunities—especially **academic research** in the field of computer science
