@@ -14,15 +14,16 @@
 
 <hr>
 
-<img width="452" alt="Funny comic" src="https://cdn-media-1.freecodecamp.org/images/1*zkeySR69oPO-PlQ5_dZ_0g.png">
-
-<hr>
-
 ### Reach me:
 - Gmail: harounathiam2005@gmail.com
 - Phone: (813)753-7015
 - <a href="https://www.linkedin.com/in/harouna-thiam-1b1200245/">LinkedIn</a>
 - <a href="https://medium.com/@harounathiam2005">Blog (Medium.com)</a>
+
+<hr>
+
+
+<img width="452" alt="Funny comic" src="https://cdn-media-1.freecodecamp.org/images/1*zkeySR69oPO-PlQ5_dZ_0g.png">
 
 <!--
 **harounathiam2005/harounathiam2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
