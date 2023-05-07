@@ -2,7 +2,7 @@
 
 ### My utility belt:
 
-<img width="452" alt="Apps and IDEs on my desktop toolbar" src="https://raw.githubusercontent.com/harounathiam2005/harounathiam2005/main/Screen%20Shot%202023-05-05%20at%202.45.24%20PM.png">
+<img width="452" alt="Apps and IDEs on my desktop toolbar" src="https://raw.githubusercontent.com/harounathiam2005/harounathiam2005/main/Screen%20Shot%202023-05-06%20at%206.03.58%20PM.png">
 
   - Junior in high school @ Manatee School for the Arts, Palmetto, Florida
   - **Onboarding Summer Software/AI Engineering Intern @ ZSuite Technologies inc**.
