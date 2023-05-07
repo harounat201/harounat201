@@ -6,7 +6,7 @@
 
   - Junior in high school @ Manatee School for the Arts, Palmetto, Florida
   - **Onboarding Summer Software/AI Engineering Intern @ ZSuite Technologies inc**.
-  - Lead programmer for **FIRST Tech Challenge Team Ironic 14226**
+  - Lead programmer for **the MSA FTC Robotics team** <a href="https://github.com/FTC14226">(Ironic 14226)</a>
   - Profound interest in **Computer Science**, **Software**, and **Artificial Intelligence**
   - **Blog writer** with a unique perspective as a prospective academic in the field of computer science and AI 
   - **Always** looking for new opportunities—especially **academic research** in the field of computer science
