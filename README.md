@@ -16,7 +16,7 @@
 
 ### Reach me:
 - Gmail: harounathiam2005@gmail.com
-- Phone: (813)753-7015
+- Work Phone: (813)753-7015
 - <a href="https://www.linkedin.com/in/harouna-thiam-1b1200245/">LinkedIn</a>
 - <a href="https://medium.com/@harounathiam2005">Blog (Medium.com)</a>
 
