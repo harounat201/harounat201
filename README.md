@@ -14,6 +14,14 @@
 
 <hr>
 
+### What I'm looking to complete in the near future:
+- Compete in the 2023 Congressional App Challenge
+- Prep for the 2023 FTC season
+- Polish my languages/skills
+- Seek computer science research opportunities
+
+<hr>
+
 ### Reach me:
 - Gmail: harounathiam2005@gmail.com
 - Work Phone: (813)753-7015
