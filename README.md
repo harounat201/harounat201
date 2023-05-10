@@ -14,11 +14,11 @@
 
 <hr>
 
-### What I'm looking to complete in the near future:
-- Compete in the 2023 Congressional App Challenge
+### What I'm hoping to accomplish in the near future:
+- Competition in the 2023 Congressional App Challenge
 - Prep for the 2023 FTC season
-- Polish my languages/skills
-- Seek computer science research opportunities
+- Polishing of languages/skills
+- Seeking of computer science research opportunities
 
 <hr>
 
