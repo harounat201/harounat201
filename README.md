@@ -5,7 +5,7 @@
 <img width="452" alt="Apps and IDEs on my desktop toolbar" src="https://raw.githubusercontent.com/harounathiam2005/harounathiam2005/main/Screen%20Shot%202023-05-06%20at%206.03.58%20PM.png">
 
   - Junior in high school @ Manatee School for the Arts, Palmetto, Florida
-  - **Onboarding Summer Software/AI Engineering Intern @ ZSuite Technologies inc**.
+  - **2023 Summer LLM Research Software Engineering Intern @ ZSuite Technologies**.
   - Lead programmer for **the MSA FTC Robotics team** <a href="https://github.com/FTC14226">(Ironic 14226)</a>
   - Profound interest in **Computer Science**, **Software**, and **Artificial Intelligence**
   - **Blog writer** with a unique perspective as a prospective academic in the field of computer science and AI 
@@ -16,9 +16,9 @@
 
 ### What I'm hoping to accomplish in the near future:
 - Competition in the 2023 Congressional App Challenge
-- Prep for the 2023 FTC season
+- Success in the FIRST Tech Challenge 2023 Season
 - Polishing of languages/skills
-- Seeking of computer science research opportunities
+- Computer science research opportunities
 
 <hr>
 
