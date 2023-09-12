@@ -6,7 +6,7 @@
 
   - Junior in high school @ Manatee School for the Arts, Palmetto, Florida
   - **2023 Summer LLM Research Software Engineering Intern @ ZSuite Technologies**.
-  - Lead programmer for **the MSA FTC Robotics team** <a href="https://github.com/FTC14226">(Ironic 14226)</a>
+  - Programmer for **FTC Robotics Team 'IRONIC' 14226** <a href="https://github.com/FTC14226">(Ironic 14226)</a>
   - Profound interest in **Computer Science**, **Software**, and **Artificial Intelligence**
   - **Blog writer** with a unique perspective as a prospective academic in the field of computer science and AI
   - Founder of **'The Code Room'**, a blog organization providing blog presences to multiple STEM education-focused organizations
