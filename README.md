@@ -11,15 +11,6 @@
   - **Blog writer** with a unique perspective as a prospective academic in the field of computer science and AI
   - Founder of **'The Code Room'**, a blog organization providing blog presences to multiple STEM education-focused organizations
   - **Always** looking for new opportunities—especially **academic research** in the field of computer science
-  - 3rd rank in the MSA junior class -- 4.3 GPA
-
-<hr>
-
-### What I'm hoping to accomplish in the near future:
-- Competition in the 2023 Congressional App Challenge
-- Success in the FIRST Tech Challenge 2023 Season
-- Polishing of languages/skills
-- Computer science research opportunities
 
 <hr>
 
