@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2000&pause=1000&width=600&lines=I'm+Harouna+Thiam.;+Always+looking+for+new+opportunities.)](https://git.io/typing-svg)
 
-### Java | JavaScript | Python | HTML | CSS
+Java | JavaScript | Python | HTML | CSS
 
   - Freshman @ Duke University - Studying Computer Science
   - 2025 Software Development Intern @ Amazon, Prev @ ZSuite Tech
