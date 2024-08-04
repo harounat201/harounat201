@@ -4,10 +4,10 @@
 
 <img width="452" alt="Apps and IDEs on my desktop toolbar" src="https://raw.githubusercontent.com/harounathiam2005/harounathiam2005/main/Screen%20Shot%202023-05-06%20at%206.03.58%20PM.png">
 
-  - Senior in high school @ Manatee School for the Arts, Palmetto, Florida
-  - **2023 Summer LLM Research Software Engineering Intern @ ZSuite Technologies**.
-  - Programmer for **FTC Robotics Team 'IRONIC' 14226** <a href="https://github.com/FTC14226">(Ironic 14226)</a>
-  - Profound interest in **Computer Science**, **Software**, and **Artificial Intelligence**
+  - Freshman @ Duke University - Studying Computer Science
+  - 2025 Software Development Intern @ Amazon, Prev @ ZSuite Tech
+  - LinkedIn Possibilities In Tech Scholar
+  - Jane Street UNBOXED Scholar
   - **Blog writer** with a unique perspective as a prospective academic in the field of computer science and AI
   - **Always** looking for new opportunities—especially **academic research** in the field of computer science
 
