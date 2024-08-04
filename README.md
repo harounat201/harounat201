@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2000&pause=1000&width=600&lines=I'm+Harouna+Thiam.;+Always+looking+for+new+opportunities.)](https://git.io/typing-svg)
 
-### My utility belt:
-
-<img width="452" alt="Apps and IDEs on my desktop toolbar" src="https://raw.githubusercontent.com/harounathiam2005/harounathiam2005/main/Screen%20Shot%202023-05-06%20at%206.03.58%20PM.png">
+### Java | JavaScript | Python | HTML | CSS
 
   - Freshman @ Duke University - Studying Computer Science
   - 2025 Software Development Intern @ Amazon, Prev @ ZSuite Tech
