@@ -5,7 +5,7 @@ Java | JavaScript | Python | HTML | CSS
   - Freshman @ Duke University - Studying Computer Science
   - 2025 Software Development Intern @ Amazon, Prev @ ZSuite Tech
   - LinkedIn Possibilities In Tech Scholar
-  - Jane Street UNBOXED Scholar
+  - Jane Street UNBOXED Quantitative Finanance and Web Server intensive
   - **Blog writer** with a unique perspective as a prospective academic in the field of computer science and AI
   - **Always** looking for new opportunities—especially **academic research** in the field of computer science
 
