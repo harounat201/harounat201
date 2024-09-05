@@ -3,7 +3,7 @@
 Java | JavaScript | Python | HTML | CSS
 
   - Freshman @ Duke University - Studying Computer Science
-  - 2025 Software Development Intern @ Amazon, Prev @ ZSuite Tech
+  - Incoming 2025 Software Development Intern @ Amazon, Prev @ ZSuite Tech
   - Amazon Future Engineer
   - LinkedIn Possibilities In Tech Scholar
   - Jane Street UNBOXED Quantitative Finanance and Web Server intensive
