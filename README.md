@@ -4,16 +4,12 @@ Java | JavaScript | Python | HTML | CSS
 
   - Freshman @ Duke University - Studying Computer Science
   - Incoming 2025 Software Development Intern @ Amazon, Prev @ ZSuite Tech
-  - Amazon Future Engineer
-  - LinkedIn Possibilities In Tech Scholar
-  - Jane Street UNBOXED Quantitative Finanance and Web Server intensive
-  - **Blog writer** with a unique perspective as a prospective academic in the field of computer science and AI
   - **Always** looking for new opportunities—especially **academic research** in the field of computer science
 
 <hr>
 
 ### Reach me:
-- Gmail: harounathiam2005@gmail.com
+- Gmail: thiamharouna201@gmail.com
 - Work Phone: (813)753-7015
 - <a href="https://www.linkedin.com/in/harouna-thiam-1b1200245/">LinkedIn</a>
 - <a href="https://medium.com/@harounathiam2005">Blog (Medium.com)</a>
