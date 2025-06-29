@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2000&pause=1000&width=600&lines=I'm+Harouna+Thiam.;+Always+looking+for+new+opportunities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2000&pause=1000&width=600&lines=I'm+Harouna+Thiam.;+How+can+I+help+you?)](https://git.io/typing-svg)
 
 📍 **Freshman @ Duke University** — B.S. in Computer Science  
 💻 **2025 SWE Intern @ Amazon** | Prev @ ZSuite Tech  
