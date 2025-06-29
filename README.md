@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=2000&pause=1000&width=600&lines=I'm+Harouna+Thiam.;+Always+looking+for+new+opportunities.)](https://git.io/typing-svg)
 
 📍 **Freshman @ Duke University** — B.S. in Computer Science  
-💻 **Incoming 2025 SWE Intern @ Amazon** | Prev @ ZSuite Tech  
+💻 **2025 SWE Intern @ Amazon** | Prev @ ZSuite Tech  
 🏆 **HackDuke Grand Prize Winner** | **Congressional App Challenge Winner**  
 🌱 Passionate about AI, cloud systems, and inclusive computing education
 
